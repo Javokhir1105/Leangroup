@@ -1,0 +1,46 @@
+.News{
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 25px;
+}
+.new-container{
+    text-align: center;
+}
+.new-part{
+    display: flex;
+}
+.new-item{
+    text-align: left;
+}
+.new-h2{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 19px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+}
+.new-img{
+    width: 450px;
+    height: 240px;
+}
+.new-img2{
+    width: 400px;
+    height: 240px;
+}
+.new-btn1{
+    width: 216px;
+    height: 50px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px solid rgba(239, 124, 0, 1);
+    opacity: 0px;
+    background-color: white;
+    color: rgba(239, 124, 0, 1);
+    font-size: 16px;
+    margin-top: 40px;
+}
+.new-btn1:active{
+    background-color: rgba(239, 124, 0, 1);
+    color: white;
+}

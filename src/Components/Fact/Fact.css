@@ -1,0 +1,78 @@
+.fact {
+    width: 1330px;
+    height: 420px;
+    margin: 0 auto;
+    padding: 0;
+    background-image: url("background.png");
+    border: 2px solid rgba(0, 16, 61, 0.16);
+    background-size: cover;
+}
+.fact-item {
+    width: 652px;
+    height: 114px;
+    padding: 0px 10px;
+    gap: 16px;
+    opacity: 0px;
+    margin-left: 18px;
+}
+
+.fact-item1 {
+    width: 500px;
+    list-style: none;
+    height: 106px;
+    padding: 8px 14px 8px 14px;
+    gap: 12px;
+    opacity: 0px;
+}
+
+.fact-h1 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 40px;
+    text-align: left;
+}
+
+.fact-p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+}
+
+.input-text {
+    width: 217px;
+    height: 40px;
+    top: 12px;
+    left: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 20px;
+    margin: 10px;
+    border: 1px solid rgba(0, 16, 61, 0.12);
+}
+
+.input-text2 {
+    width: 462px;
+    height: 90px;
+    margin-left: 8px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    font-size: 20px;
+    border: 1px solid rgba(0, 16, 61, 0.12);
+}
+
+.fact-button {
+    width: 225px;
+    height: 40px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 40px;
+    border-radius: 4px 0px 0px 0px;
+    margin-left: 18px;
+    background: rgba(239, 124, 0, 1);
+    color: white;
+    border: 1px solid rgba(0, 16, 61, 0.12);
+}
